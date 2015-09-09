@@ -41,6 +41,11 @@ alert(epithet +" you could have avoided spending "+ totalCost +" this year by pa
 
 
 /* Here are my test values off my console after running this file:
+ "5" Expressions.js:18:1
+ "6" Expressions.js:23:1
+ "Dood you spend 1565.31 on lunch hour in a years time!" Expressions.js:30:1
+ " You also spend 30 on lunch food in a week! " Expressions.js:35:1
 
+ And that's what Ive got for test like stuff.
  */
 
