@@ -11,12 +11,17 @@ how much would it cost you?
  */
 
 var epithet= prompt ("What's your name?");//ask the user what their name is
-alert (" Howdy "+ epithet +" ! Let's assume that you eat takeout for lunch every day you work.");
+alert (" Howdy "+ epithet +"! Let's assume that you eat takeout for lunch every day you work.");
 //send an alert to give the user an idea about what the info required will pertain to.
 var foodMoney = prompt ("How much does your lunch typically cost?");
 //asking for a dollar amount from the user, the purpose is to come up with a tab for the year.
 console.log(foodMoney);
 //Print out the value that the user contributes onto the console with console.log.
+
+var workDays = prompt("How many days per week do You work?");
+//This is assuming that the user does not work 7 days a week, hopefully not so....using a prompt again.
+console.log(workDays);
+//Print the good stuff out onto the console.
 
 
 
