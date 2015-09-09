@@ -23,5 +23,9 @@ var workDays = prompt("How many days per week do You work?");
 console.log(workDays);
 //Print the good stuff out onto the console.
 
+//and now for a variable to multiply foodMoney workDays and how many weeks are in a year (52.177).
+var totalCost = foodMoney * workDays * 52.177;
+console.log(epithet +" you spend "+ totalCost +"on lunch hour in a years time!");
 
+//
 
