@@ -27,8 +27,8 @@ var totalCost will run, or var weeklyCost will run......
  */
 //and now for a variable to multiply foodMoney workDays and how many weeks are in a year (52.177).
 var totalCost = foodMoney * workDays * 52.177;
-console.log(epithet +" you spend "+ totalCost +"on lunch hour in a years time!");
-alert(epithet +" you spend "+ totalCost +"on lunch hour in a years time!");
+console.log(epithet +" you spend "+ totalCost +" on lunch hour in a years time!");
+alert(epithet +" you spend "+ totalCost +" on lunch hour in a years time!");
 
 //And now for a variable that will show how much money will go towards food in just one week using division.
 var weeklyCost = totalCost/52.177;
@@ -36,7 +36,7 @@ console.log(" You also spend "+ weeklyCost +" on lunch food in a week! ");
 alert(" You also spend "+ weeklyCost +" on lunch food in a week! ");
 //top this off with an alert, show the user something interesting.
 
-/*alert(epithet +" you could have avoided spending "+ totalCost +" this year by packing a lunch every day! ");
+alert(epithet +" you could have avoided spending "+ totalCost +" this year by packing a lunch every day! ");
 //I'm all about saving those dollar bills.
 
 
