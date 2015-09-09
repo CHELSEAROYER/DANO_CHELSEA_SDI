@@ -22,9 +22,8 @@ var workDays = prompt("How many days per week do You work?");
 //This is assuming that the user does not work 7 days a week, hopefully not so....using a prompt again.
 console.log(workDays);
 //Print the good stuff out onto the console.
-/* I have no idea what I'm doing, but every time I run this code ether
-var totalCost will run, or var weeklyCost will run......
- */
+
+
 //and now for a variable to multiply foodMoney workDays and how many weeks are in a year (52.177).
 var totalCost = foodMoney * workDays * 52.177;
 console.log(epithet +" you spend "+ totalCost +" on lunch hour in a years time!");
