@@ -29,4 +29,20 @@ under $10.
 var foodBudget=10;
 (foodBudget>8)? console.log("Order it, because it's affordable!"):console.log("Sorry You don't have enough...");
 
+/* My  else if statement.
+This is depicting our maximum limit for calories, minimum, & dessert allowances.
+ */
+
+var maxCal=800; //we don't want the total amount of calories to go over this.
+var minCal=500; //we don't want to eat too little ether!
+var dessertCal=150; //this is how many calories is in a bananna split.
+
+if(maxCal>minCal){
+    console.log("You can order this meal!");
+
+}else if (maxCal>minCal+dessertCal){
+    console.log("You can order the bananna split!");
+}else{
+    console.log("No dessert for you!");
+}
 
