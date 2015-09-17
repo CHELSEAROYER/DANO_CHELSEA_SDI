@@ -23,4 +23,10 @@ if(idealWeight>steakWeight && niceCut===cutUp){
     console.log("Yeah send that thing back.");
 }
 
+/* Ternary time, it's time to put three components together. I need to order something that's
+under $10.
+ */
+var foodBudget=10;
+(foodBudget>8)? console.log("Order it, because it's affordable!"):console.log("Sorry You don't have enough...");
+
 
