@@ -1,7 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="ee7f65ce-3cef-45ac-89ce-a8ebad56d7da" name="Default" comment="" />
+    <list default="true" id="ee7f65ce-3cef-45ac-89ce-a8ebad56d7da" name="Default" comment="">
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Dano_Chelsea_Assignment_Expressions/Dano_Chelsea_Conditionals_Assignment/Conditionals.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Dano_Chelsea_Assignment_Expressions/Dano_Chelsea_Conditionals_Assignment/Conditionals.js" afterPath="" />
+    </list>
     <ignored path="Dano_Chelsea_SDI.iws" />
     <ignored path=".idea/workspace.xml" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -21,24 +24,22 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="Conditionals.html" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Dano_Chelsea_Assignment_Expressions/Dano_Chelsea_Conditionals_Assignment/Conditionals.html">
+      <file leaf-file-name="conditionals.html" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/Dano_Chelsea_Conditionals_Assignment/conditionals.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="-3.75">
-              <caret line="6" column="7" selection-start-line="6" selection-start-column="7" selection-end-line="6" selection-end-column="7" />
+            <state vertical-scroll-proportion="0.22624435">
+              <caret line="10" column="7" selection-start-line="10" selection-start-column="7" selection-end-line="10" selection-end-column="7" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Conditionals.js" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/Dano_Chelsea_Assignment_Expressions/Dano_Chelsea_Conditionals_Assignment/Conditionals.js">
+      <file leaf-file-name="conditionals.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Dano_Chelsea_Conditionals_Assignment/conditionals.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.06550218">
-              <caret line="5" column="26" selection-start-line="5" selection-start-column="26" selection-end-line="5" selection-end-column="26" />
-              <folding>
-                <element signature="e#0#46#0" expanded="false" />
-              </folding>
+            <state vertical-scroll-proportion="0.0">
+              <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+              <folding />
             </state>
           </provider>
         </entry>
@@ -64,6 +65,8 @@
         <option value="$PROJECT_DIR$/Dano_Chelsea_Assignment_Expressions/Expressions.js" />
         <option value="$PROJECT_DIR$/Dano_Chelsea_Assignment_Expressions/Dano_Chelsea_Conditionals_Assignment/Conditionals.html" />
         <option value="$PROJECT_DIR$/Dano_Chelsea_Assignment_Expressions/Dano_Chelsea_Conditionals_Assignment/Conditionals.js" />
+        <option value="$PROJECT_DIR$/Dano_Chelsea_Conditionals_Assignment/conditionals.js" />
+        <option value="$PROJECT_DIR$/Dano_Chelsea_Conditionals_Assignment/conditionals.html" />
       </list>
     </option>
   </component>
@@ -145,7 +148,7 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="Dano_Chelsea_Assignment_Expressions" />
+              <option name="myItemId" value="Dano_Chelsea_Conditionals_Assignment" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -160,10 +163,6 @@
             </PATH_ELEMENT>
             <PATH_ELEMENT>
               <option name="myItemId" value="Dano_Chelsea_Assignment_Expressions" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Dano_Chelsea_Conditionals_Assignment" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -324,21 +323,19 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Dano_Chelsea_Assignment_Expressions/Dano_Chelsea_Conditionals_Assignment/Conditionals.html">
+    <entry file="file://$PROJECT_DIR$/Dano_Chelsea_Conditionals_Assignment/conditionals.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-3.75">
-          <caret line="6" column="7" selection-start-line="6" selection-start-column="7" selection-end-line="6" selection-end-column="7" />
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Dano_Chelsea_Assignment_Expressions/Dano_Chelsea_Conditionals_Assignment/Conditionals.js">
+    <entry file="file://$PROJECT_DIR$/Dano_Chelsea_Conditionals_Assignment/conditionals.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.06550218">
-          <caret line="5" column="26" selection-start-line="5" selection-start-column="26" selection-end-line="5" selection-end-column="26" />
-          <folding>
-            <element signature="e#0#46#0" expanded="false" />
-          </folding>
+        <state vertical-scroll-proportion="0.22624435">
+          <caret line="10" column="7" selection-start-line="10" selection-start-column="7" selection-end-line="10" selection-end-column="7" />
+          <folding />
         </state>
       </provider>
     </entry>
