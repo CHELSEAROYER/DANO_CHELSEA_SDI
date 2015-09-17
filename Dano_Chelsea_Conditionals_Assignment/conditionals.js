@@ -46,3 +46,45 @@ if(maxCal>minCal){
     console.log("No dessert for you!");
 }
 
+//Creating a conditional with prompt validation.
+var howMany=prompt("How many people will you be dining with at your table?");//prompt for value
+    console.log(isNaN(howMany));//print validation
+if(isNaN(howMany)){//start an if and else statment for howMany
+    howMany=prompt("Please use numbers. Try again!");//asking for the right value
+}
+if(howMany>20){//needs to be more than 20 for them to need more chairs!
+    console.log("Your going to need more chairs!");//too many butts.
+}else{//what happens next if we have falsieness.
+    console.log("This group is managable.");//okay so we have less than 20. yeah!
+}
+/*
+validating more prompts with conditional #2.
+Let's see if we will feel abused after eating at Denny's!
+ */
+
+var badService=promt("Was the service bad? Yes, or no?");
+var tip=10;
+var goodService= prompt("Was the service good? Yes, or No?");
+if (goodService===" "){
+    goodService=prompt("Please enter a Yes, or No. Try again!")
+}
+if (goodService==="Yes"){
+    console.log("Tip generously.");
+}else{
+    console.log("Give a horrible Yelp review.");
+}
+if (badService===" "){
+    badService=prompt("Please enter a yes, or a no. Try again!");
+}
+if(badService==="Yes") {
+    console.log("Throw food at the waiter.");
+}else{
+    console.log("Go on and eat your pancakes.");
+}
+
+alert("You should probably tip them" +tip+ "dollars ether way, and not throw things.");//concatination
+
+
+
+
+
