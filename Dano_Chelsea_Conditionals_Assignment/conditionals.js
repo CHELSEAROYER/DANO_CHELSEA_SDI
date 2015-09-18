@@ -38,9 +38,9 @@ var minCal=500; //we don't want to eat too little ether!
 var dessertCal=150; //this is how many calories is in a bananna split.
 
 if(maxCal>minCal){
-    console.log("You can order this meal!");
+    console.log("You can order this meal!");//Needs to be under 800
 
-}else if (maxCal>minCal+dessertCal){
+}else if (maxCal> minCal + dessertCal){
     console.log("You can order the bananna split!");
 }else{
     console.log("No dessert for you!");
@@ -62,29 +62,35 @@ validating more prompts with conditional #2.
 Let's see if we will feel abused after eating at Denny's!
  */
 
-var badService=promt("Was the service bad? Yes, or no?");
-var tip=10;
-var goodService= prompt("Was the service good? Yes, or No?");
-if (goodService===" "){
-    goodService=prompt("Please enter a Yes, or No. Try again!")
+var badService=promt("Was the service bad? Yes, or no?");//prompt for yes or no
+var tip=10;//tip variable
+var goodService= prompt("Was the service good? Yes, or No?");//prompt for yes or no
+if (goodService===" "){//testing prompt
+    goodService=prompt("Please enter a Yes, or No. Try again!")//2nd prompt
 }
-if (goodService==="Yes"){
-    console.log("Tip generously.");
+if (goodService==="Yes"){//conditional
+    console.log("Tip generously.");//result
 }else{
-    console.log("Give a horrible Yelp review.");
+    console.log("Give a horrible Yelp review.");//if the waiter or waitress failed.
 }
-if (badService===" "){
-    badService=prompt("Please enter a yes, or a no. Try again!");
+if (badService===" "){//testy test
+    badService=prompt("Please enter a yes, or a no. Try again!");//2nd time prompt
 }
-if(badService==="Yes") {
-    console.log("Throw food at the waiter.");
+if(badService==="Yes") {//conditional for badService
+    console.log("Throw food at the waiter.");//this sounds fun, okay i'm joking!
 }else{
-    console.log("Go on and eat your pancakes.");
+    console.log("Go on and eat your pancakes.");//closer to how I actually act.
 }
 
 alert("You should probably tip them" +tip+ "dollars ether way, and not throw things.");//concatination
 
 
-
+/* TEST CODE:
+ "Yeah send that thing back." conditionals.js:23:5
+ "Order it, because it's affordable!" conditionals.js:30:17
+ "You can order this meal!" conditionals.js:41:5
+ false conditionals.js:51:5
+ "This group is managable." conditionals.js:58:5
+ */
 
 
