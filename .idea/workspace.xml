@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="ee7f65ce-3cef-45ac-89ce-a8ebad56d7da" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Dano_Chelsea_Functions_Assignment/functionsHtml.html" afterPath="$PROJECT_DIR$/Dano_Chelsea_Functions_Assignment/functionsHtml.html" />
     </list>
     <ignored path="Dano_Chelsea_SDI.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -23,10 +23,10 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="functionsjs.js" pinned="false" current-in-tab="true">
+      <file leaf-file-name="functionsjs.js" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Dano_Chelsea_Functions_Assignment/js/functionsjs.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.04366812">
+            <state vertical-scroll-proportion="0.0">
               <caret line="4" column="0" selection-start-line="4" selection-start-column="0" selection-end-line="4" selection-end-column="0" />
               <folding>
                 <element signature="e#0#46#0" expanded="false" />
@@ -35,11 +35,11 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="functionsHtml.html" pinned="false" current-in-tab="false">
+      <file leaf-file-name="functionsHtml.html" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/Dano_Chelsea_Functions_Assignment/functionsHtml.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="-3.125">
-              <caret line="5" column="143" selection-start-line="5" selection-start-column="143" selection-end-line="5" selection-end-column="143" />
+            <state vertical-scroll-proportion="0.11312217">
+              <caret line="5" column="142" selection-start-line="5" selection-start-column="142" selection-end-line="5" selection-end-column="142" />
               <folding />
             </state>
           </provider>
@@ -68,8 +68,8 @@
         <option value="$PROJECT_DIR$/Dano_Chelsea_Assignment_Expressions/Dano_Chelsea_Conditionals_Assignment/Conditionals.js" />
         <option value="$PROJECT_DIR$/Dano_Chelsea_Conditionals_Assignment/conditionals.html" />
         <option value="$PROJECT_DIR$/Dano_Chelsea_Conditionals_Assignment/conditionals.js" />
-        <option value="$PROJECT_DIR$/Dano_Chelsea_Functions_Assignment/functionsHtml.html" />
         <option value="$PROJECT_DIR$/Dano_Chelsea_Functions_Assignment/js/functionsjs.js" />
+        <option value="$PROJECT_DIR$/Dano_Chelsea_Functions_Assignment/functionsHtml.html" />
       </list>
     </option>
   </component>
@@ -218,7 +218,7 @@
       <recent name="$PROJECT_DIR$/firstJavaScript" />
     </key>
   </component>
-  <component name="RunManager" selected="JavaScript Debug.conditionals.html">
+  <component name="RunManager" selected="JavaScript Debug.functionsHtml.html">
     <configuration default="false" name="Expressions.html" type="JavascriptDebugType" factoryName="JavaScript Debug" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/Dano_Chelsea_SDI/Dano_Chelsea_Assignment_Expressions/Expressions.html">
       <method />
     </configuration>
@@ -226,6 +226,9 @@
       <method />
     </configuration>
     <configuration default="false" name="conditionals.html" type="JavascriptDebugType" factoryName="JavaScript Debug" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/Dano_Chelsea_SDI/Dano_Chelsea_Conditionals_Assignment/conditionals.html">
+      <method />
+    </configuration>
+    <configuration default="false" name="functionsHtml.html" type="JavascriptDebugType" factoryName="JavaScript Debug" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/Dano_Chelsea_SDI/Dano_Chelsea_Functions_Assignment/functionsHtml.html">
       <method />
     </configuration>
     <configuration default="true" type="DartCommandLineRunConfigurationType" factoryName="Dart Command Line Application">
@@ -266,16 +269,18 @@
       <envs />
       <method />
     </configuration>
-    <list size="3">
+    <list size="4">
       <item index="0" class="java.lang.String" itemvalue="JavaScript Debug.Expressions.html" />
       <item index="1" class="java.lang.String" itemvalue="JavaScript Debug.Conditionals.html" />
       <item index="2" class="java.lang.String" itemvalue="JavaScript Debug.conditionals.html" />
+      <item index="3" class="java.lang.String" itemvalue="JavaScript Debug.functionsHtml.html" />
     </list>
     <recent_temporary>
-      <list size="3">
-        <item index="0" class="java.lang.String" itemvalue="JavaScript Debug.conditionals.html" />
-        <item index="1" class="java.lang.String" itemvalue="JavaScript Debug.Conditionals.html" />
-        <item index="2" class="java.lang.String" itemvalue="JavaScript Debug.Expressions.html" />
+      <list size="4">
+        <item index="0" class="java.lang.String" itemvalue="JavaScript Debug.functionsHtml.html" />
+        <item index="1" class="java.lang.String" itemvalue="JavaScript Debug.conditionals.html" />
+        <item index="2" class="java.lang.String" itemvalue="JavaScript Debug.Conditionals.html" />
+        <item index="3" class="java.lang.String" itemvalue="JavaScript Debug.Expressions.html" />
       </list>
     </recent_temporary>
   </component>
@@ -375,14 +380,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Dano_Chelsea_Functions_Assignment/functionsHtml.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-3.125">
-          <caret line="5" column="143" selection-start-line="5" selection-start-column="143" selection-end-line="5" selection-end-column="143" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/Dano_Chelsea_Conditionals_Assignment/conditionals.js">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.8122271">
@@ -401,11 +398,19 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/Dano_Chelsea_Functions_Assignment/js/functionsjs.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.04366812">
+        <state vertical-scroll-proportion="0.0">
           <caret line="4" column="0" selection-start-line="4" selection-start-column="0" selection-end-line="4" selection-end-column="0" />
           <folding>
             <element signature="e#0#46#0" expanded="false" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Dano_Chelsea_Functions_Assignment/functionsHtml.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.11312217">
+          <caret line="5" column="142" selection-start-line="5" selection-start-column="142" selection-end-line="5" selection-end-column="142" />
+          <folding />
         </state>
       </provider>
     </entry>
