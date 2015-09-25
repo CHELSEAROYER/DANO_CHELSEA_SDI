@@ -18,7 +18,7 @@ var smallLocker=prompt("We need to create three random numbers for a locker comb
 while(smallLocker===" "); || isNaN(smallLocker)){
     //reprompt.
     smallLocker=prompt("Hey! PLease make sure that's not empty, and only use numbers please! Try again.");
-}else if(isNaN(smallLocker)){
+}else if(isNaN(smallLocker)){//more prompt validation
     smallLocker=prompt("Try again! We need a number...");
 }
     //then prompt the user for a max number!
@@ -28,9 +28,9 @@ var bigLocker=prompt("Now enter the largest number you want to use. \n We will g
 while(bigLocker===" "); || isNaN(bigLocker)){
     //re-prompt
     bigLocker=prompt("Please do not leave the field black, you will need a number this time too. Try again!");
-
+//prompt validation for blank or no number
 } else if(isNaN(bigLocker)){
-    bigLocker=prompt("Try again with a number only this time!");
+    bigLocker=prompt("Try again with a number only this time!");//if #s are not used.
 }
 //Call that function, but not on the telephone!
 var lockerCombo(smallLocker,bigLocker);
@@ -42,7 +42,7 @@ function lockerCombo(small,big){
 }
 
 var comb=lockerCombo(small,big);
-    console.log("Your random number between"+ smallLocker +"and"+ bigLocker +"is"+ comb +".");
+    console.log("Your random number between"+ smallLocker +"and"+ bigLocker +"is"+ comb +".");//concatination
 
 alert("But wait! We need two more numbers for a locker combo!");
 
@@ -53,4 +53,12 @@ for(var i=0; i<3; i++){
     console.log(lockerCombo(smallLocker,bigLocker));
 }
 
+
+    var safeCombo(smallLocker,bigLocker);//function for 7 values to a safe combination.
+var safeNumbers =function(small,big){//this is supposed to be my Anonymous function...
+    var combination=math.round(math.random()*(big-small)+ Number(small));//produce a random #
+}
+
+for(var combination=0; combination<7; combination++);
+    console.log(combination); //I honestly don't know what I'm doing here, or if this is even correct.
 
