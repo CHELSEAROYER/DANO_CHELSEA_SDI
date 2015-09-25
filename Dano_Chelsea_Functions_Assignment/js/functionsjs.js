@@ -41,3 +41,16 @@ function lockerCombo(small,big){
 
 }
 
+var comb=lockerCombo(small,big);
+    console.log("Your random number between"+ smallLocker +"and"+ bigLocker +"is"+ comb +".");
+
+alert("But wait! We need two more numbers for a locker combo!");
+
+//time to get loopie. With a loop. With a for loop.
+for(var i=0; i<3; i++){
+    //does it have to be an "i"??
+    //we want three different results.
+    console.log(lockerCombo(smallLocker,bigLocker));
+}
+
+
