@@ -62,3 +62,7 @@ var safeNumbers =function(small,big){//this is supposed to be my Anonymous funct
 for(var combination=0; combination<7; combination++);
     console.log(combination); //I honestly don't know what I'm doing here, or if this is even correct.
 
+/*
+Something here went wrong because my console is not printing
+a stinking thing! I'm a little bit frustrated with this.
+ */
