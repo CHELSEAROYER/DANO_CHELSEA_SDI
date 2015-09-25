@@ -2,7 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="ee7f65ce-3cef-45ac-89ce-a8ebad56d7da" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Dano_Chelsea_Functions_Assignment/functionsHtml.html" afterPath="$PROJECT_DIR$/Dano_Chelsea_Functions_Assignment/functionsHtml.html" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Dano_Chelsea_Functions_Assignment/js/functionsjs.js" afterPath="$PROJECT_DIR$/Dano_Chelsea_Functions_Assignment/js/functionsjs.js" />
     </list>
     <ignored path="Dano_Chelsea_SDI.iws" />
@@ -27,11 +26,9 @@
       <file leaf-file-name="functionsjs.js" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/Dano_Chelsea_Functions_Assignment/js/functionsjs.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.06550218">
-              <caret line="5" column="33" selection-start-line="5" selection-start-column="33" selection-end-line="5" selection-end-column="33" />
-              <folding>
-                <element signature="e#0#46#0" expanded="false" />
-              </folding>
+            <state vertical-scroll-proportion="0.8951965">
+              <caret line="43" column="0" selection-start-line="43" selection-start-column="0" selection-end-line="43" selection-end-column="0" />
+              <folding />
             </state>
           </provider>
         </entry>
@@ -407,11 +404,9 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/Dano_Chelsea_Functions_Assignment/js/functionsjs.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.06550218">
-          <caret line="5" column="33" selection-start-line="5" selection-start-column="33" selection-end-line="5" selection-end-column="33" />
-          <folding>
-            <element signature="e#0#46#0" expanded="false" />
-          </folding>
+        <state vertical-scroll-proportion="0.8951965">
+          <caret line="43" column="0" selection-start-line="43" selection-start-column="0" selection-end-line="43" selection-end-column="0" />
+          <folding />
         </state>
       </provider>
     </entry>
